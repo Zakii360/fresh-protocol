@@ -1,7 +1,7 @@
 {
   "name": "fresh-protocol",
   "version": "1.0.0",
-  "description": "FRESH:// prototype - convert web pages into structured format",
+  "description": "FRESH protocol prototype",
   "main": "index.js",
   "type": "module",
   "dependencies": {
